@@ -2,18 +2,9 @@
 <a id="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/duykhanh472/sokurin">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
-
 
 <h3 align="center">SocratesLink</h3>
 
@@ -31,7 +22,6 @@
   </p>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9xP1J309koQ?si=CvUOfu9VGD9AzdaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <details>
   <summary>Table of Contents</summary>
