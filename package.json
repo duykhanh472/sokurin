@@ -1,0 +1,14 @@
+{
+  "name": "socrateslink-root",
+  "version": "1.0.0",
+  "description": "SocratesLink Fullstack Root Orchestration",
+  "private": true,
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev": "npm --prefix backend run dev & npm --prefix frontend run dev",
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend run dev",
+    "start": "npm --prefix backend start & npm --prefix frontend run dev"
+  }
+}
